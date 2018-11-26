@@ -1,4 +1,4 @@
-from chomp4 import chop
+from chomp5 import chop
 import unittest
 
 
